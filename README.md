@@ -82,7 +82,8 @@ The app sends a request to a fictional API and displays results in the terminal.
 
 - Create repository  
 - Build README  
-- Add Python script  
+- Add Python script **
+- *** These have been added. 
 
 
 ## Contributing
